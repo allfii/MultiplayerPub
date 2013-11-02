@@ -1,4 +1,4 @@
--- www.pubnub.com
+-- pubnub.lua is open library from PubNub. Downloaded from http://www.pubnub.com
 
 require "lib/Json"
 --require "crypto"
